@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dinesh%20Kumar%20E&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20%26%20ML%20Engineer%20%7C%20Building%20reliable%2C%20scalable%20solutions&descAlignY=62&descSize=16" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dinesh%20Kumar%20E&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20%26%20ML%20Engineer%20%7C%20Building%20reliable%2C%20scalable%20solutions&descAlignY=62&descSize=16" width="100%"/> -->
 
 <a href="https://github.com/mr-edr">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Aspiring+Software+Engineer;Backend+%7C+Spring+Boot+%7C+Java;Building+ML+%2F+AI+powered+systems;2x+Smart+India+Hackathon+Winner" alt="Typing SVG" />
